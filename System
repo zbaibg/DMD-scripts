@@ -1,0 +1,32 @@
+RhSi EE_eps12.9 E0.2 A00.0005 DM(-0.381,0.381) Nkmult1
+RhSi EE_eps12.9 E0.2 A00.0005 DM(-0.191,0.191) Nkmult1
+RhSi EE_eps12.9 E0.2 A00.0005 DM(-0.16,0.16) Nkmult1
+RhSi EE_eps12.9 E0.2 A00.0005 DM(-0.16,0.16) Nkmult2
+RhSi EE_eps12.9 E0.3 A00.00005 DM(-0.381,0.381) Nkmult1
+RhSi EE_eps12.9 E0.3 A00.0005 DM(-0.381,0.381) Nkmult1
+RhSi EE_eps12.9 E0.5 A00.00005 DM(-0.381,0.381) Nkmult1
+RhSi EE_eps12.9 E0.5 A00.0005 DM(-0.381,0.381) Nkmult1
+RhSi EE_eps12.9 E0.6 A00.00005 DM(-0.381,0.381) Nkmult1
+RhSi EE_eps12.9 E0.7 A00.0005 DM(-0.381,0.381) Nkmult1
+RhSi EE_eps12.9 E0.8 A00.0005 DM(-0.381,0.381) Nkmult1
+RhSi EPHdelta0.005+EEeps12.9
+RhSi EPHdelta0.005
+RhSi EPHdelta0.005+EEeps1
+RhSi RTA0.011
+RhSi RTA0.11
+RhSi RTA1.1
+RhSi EPHdelta0.005 (NkMult2)
+RhSi EPHdelta0.1 (NkMult2)
+RhSi LPGE
+GaAs Eph+EE (doped,impurity)
+GaAs RTA0.11 (doped,impurity)
+GaAs RTA0.11 (doped, imputiry, Reversed light)
+GaAs RTA0.11 (nondoped)
+GaAs RTA0.11 (doped)
+GaAs RTA0.011 (doped)
+GaAs RTA0.11 rec0.22 (doped)
+GaAs RTA0.11 rec0.022 (doped)
+GaAs Eph (doped)
+GaAs Eph rec0.22 (nodoped)
+GaAs Eph+EE rec0.22 (nodoped)
+GaAs RTA0.11 (doped, tstep0.05)
